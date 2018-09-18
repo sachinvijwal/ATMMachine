@@ -7,6 +7,6 @@
 
   - For e.g.:
 555 as input will return the output as:
-500 * 1
-50 * 1
-5 * 1
+- 500 * 1 
+- 50 * 1 
+- 5 * 1
